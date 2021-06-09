@@ -1,18 +1,18 @@
-# Volmex.Finance V1 Bug Bounty
+# volmex.finance v1 Bug Bounty
 
 ## Overview
-This bug bounty program is designed to bolster the professional audits Volmex v1 has undergone.
+This bug bounty program is designed to bolster the professional audits volmex.finance v1 has undergone.
 
 ## Scope
-This Program is limited to the vulnerabilities affecting Volmex V1 in the following contracts:
+This Program is limited to the vulnerabilities affecting volmex.finance v1 in the following contracts:
 
 [Volmex Core](https://github.com/volmexfinance/volmex-core/)
 
 The following are not within the scope of the Program:
 
 - Any contract located under [volmex-core/test](https://github.com/volmexfinance/volmex-core/tree/master/test).
-- Bugs in any third party contract or platform that interacts with Volmex v1.
-- Vulnerabilities already reported and/or discovered in contracts built by third parties on Volmex v1.
+- Bugs in any third party contract or platform that interacts with volmex.finance v1.
+- Vulnerabilities already reported and/or discovered in contracts built by third parties on volmex.finance v1.
 - Any already-reported bugs.
 
 Vulnerabilities contingent upon the occurrence of any of the following activities also are outside the scope of this Program:
@@ -45,12 +45,12 @@ Anyone who reports a unique, previously-unreported vulnerability that results in
 
 To be eligible for a reward under this Program, you must:
 
-- Discover a previously unreported, non-public vulnerability that would result in a loss of and/or lock on any ERC-20 token on Volmex v1 (but not on any third party platform interacting with Volmex v1) and that is within the scope of this Program. Vulnerabilities must be distinct from the issues covered in the CertiK or Coinspect audits.
+- Discover a previously unreported, non-public vulnerability that would result in a loss of and/or lock on any ERC-20 token on volmex.finance v1 (but not on any third party platform interacting with volmex.finance v1) and that is within the scope of this Program. Vulnerabilities must be distinct from the issues covered in the CertiK or Coinspect audits.
 - Be the first to disclose the unique vulnerability to [security@volmexfinance.com](security@volmexfinance.com), in compliance with the disclosure requirements above. If similar vulnerabilities are reported within the same 24 hour period, rewards will be split at the discretion of Volmex Labs.
 - Provide sufficient information to enable our engineers to reproduce and fix the vulnerability.
 - Not engage in any unlawful conduct when disclosing the bug, including through threats, demands, or any other coercive tactics.
 - Not exploit the vulnerability in any way, including through making it public or by obtaining a profit (other than a reward under this Program).
-- Make a good faith effort to avoid privacy violations, destruction of data, interruption or degradation of Volmex v1.
+- Make a good faith effort to avoid privacy violations, destruction of data, interruption or degradation of volmex.finance v1.
 - Submit only one vulnerability per submission, unless you need to chain vulnerabilities to provide impact regarding any of the vulnerabilities.
 - Not submit a vulnerability caused by an underlying issue that is the same as an issue on which a reward has been paid under this Program.
 - Not be one of our current or former employees, vendors, or contractors or an employee of any of those vendors or contractors.
